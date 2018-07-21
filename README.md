@@ -1,2 +1,2 @@
 # FastCars
-The fastest 0-6 cars
+The fastest 0-60 cars
